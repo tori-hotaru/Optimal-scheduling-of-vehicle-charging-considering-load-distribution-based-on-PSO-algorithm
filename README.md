@@ -5,3 +5,5 @@ With the full development of electric vehicles, electric vehicle charging has no
 ## PSO algorithm:
 paper https://ieeexplore.ieee.org/document/488968
 
+## loss with 50 car:
+![alt text] 
