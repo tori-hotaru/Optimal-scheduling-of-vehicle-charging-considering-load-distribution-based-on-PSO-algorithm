@@ -6,4 +6,19 @@ With the full development of electric vehicles, electric vehicle charging has no
 paper https://ieeexplore.ieee.org/document/488968
 
 ## loss with 50 car:
-![alt text] 
+![Car50](https://github.com/tori-hotaru/Optimal-scheduling-of-vehicle-charging-considering-load-distribution-based-on-PSO-algorithm/assets/58972377/1ad3bd6e-0bd8-4ccf-8357-0ee07a437e89)
+## loss with 100 car
+![100diff cars](https://github.com/tori-hotaru/Optimal-scheduling-of-vehicle-charging-considering-load-distribution-based-on-PSO-algorithm/assets/58972377/16b05f39-3996-4ccc-8482-be7bd2f1ac01)
+
+## 50 epoch
+![Generation50](https://github.com/tori-hotaru/Optimal-scheduling-of-vehicle-charging-considering-load-distribution-based-on-PSO-algorithm/assets/58972377/bcb09b22-e452-4bcb-9d5a-d7263509ad78)
+
+## 200 epoch
+![Generation200](https://github.com/tori-hotaru/Optimal-scheduling-of-vehicle-charging-considering-load-distribution-based-on-PSO-algorithm/assets/58972377/bc6e3811-1244-4be4-af05-4e8a14e6f919)
+
+## 300 epoch
+![Generation300](https://github.com/tori-hotaru/Optimal-scheduling-of-vehicle-charging-considering-load-distribution-based-on-PSO-algorithm/assets/58972377/1fce050f-9a8f-4174-9609-6667364992be)
+
+
+
+
